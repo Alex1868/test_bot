@@ -1,3 +1,6 @@
+#!/usr/bin/env python
+# -*- coding: utf-8 -*-
+
 from vk_api.longpoll import VkLongPoll, VkEventType
 import vk_api
 import random
